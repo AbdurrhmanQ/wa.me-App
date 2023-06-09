@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-import 'package:flutter/material.dart';
-
-void main() => runApp(Wa_me_interface());
-
-class Wa_me_interface extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp();
-  }
-}
-=======
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -103,4 +91,3 @@ class _WaInintState extends State<WaInint> {
     textEditor.dispose();
   }
 }
->>>>>>> master
